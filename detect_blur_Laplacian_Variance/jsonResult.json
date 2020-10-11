@@ -1,0 +1,167 @@
+[
+    {
+        "Image": "data\\0_IPHONE-SE_F.JPG",
+        "Variance of Laplacian": 19.535324406591695,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\0_IPHONE-SE_M.JPG",
+        "Variance of Laplacian": 48.266838708200034,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\0_IPHONE-SE_S.JPG",
+        "Variance of Laplacian": 247.3583131490733,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\10_ASUS-ZENFONE-LIVE-ZB501KL_F.jpg",
+        "Variance of Laplacian": 31.94831473646789,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\10_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg",
+        "Variance of Laplacian": 4.994230894486662,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\10_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg",
+        "Variance of Laplacian": 196.0898738145457,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\1_XIAOMI-PROCOFONE-F1_F.jpg",
+        "Variance of Laplacian": 9.659386230283024,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\1_XIAOMI-PROCOFONE-F1_M.jpg",
+        "Variance of Laplacian": 108.3985801142915,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\1_XIAOMI-PROCOFONE-F1_S.jpg",
+        "Variance of Laplacian": 601.81910004231,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\2_XIAOMI-PROCOFONE-F1_F.jpg",
+        "Variance of Laplacian": 38.31039552876938,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\2_XIAOMI-PROCOFONE-F1_M.jpg",
+        "Variance of Laplacian": 14.846394476289051,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\2_XIAOMI-PROCOFONE-F1_S.jpg",
+        "Variance of Laplacian": 353.61636239961945,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\3_HUAWEI-NOVA-LITE_F.jpg",
+        "Variance of Laplacian": 9.138684582734856,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\3_HUAWEI-NOVA-LITE_M.jpg",
+        "Variance of Laplacian": 11.731669677553631,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\3_HUAWEI-NOVA-LITE_S.jpg",
+        "Variance of Laplacian": 162.23158002162992,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\4_XIAOMI-PROCOFONE-F1_F.jpg",
+        "Variance of Laplacian": 226.80767154633747,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\4_XIAOMI-PROCOFONE-F1_M.jpg",
+        "Variance of Laplacian": 129.71157161833108,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\4_XIAOMI-PROCOFONE-F1_S.jpg",
+        "Variance of Laplacian": 296.9037946724649,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\5_XIAOMI-PROCOFONE-F1_F.jpg",
+        "Variance of Laplacian": 289.19968405956257,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\5_XIAOMI-PROCOFONE-F1_M.jpg",
+        "Variance of Laplacian": 281.0166526635148,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\5_XIAOMI-PROCOFONE-F1_S.jpg",
+        "Variance of Laplacian": 306.8666850419147,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\6_HUAWEI-MATE20_F.jpg",
+        "Variance of Laplacian": 12.199569021272401,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\6_HUAWEI-MATE20_M.jpg",
+        "Variance of Laplacian": 368.15229509537454,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\6_HUAWEI-MATE20_S.jpg",
+        "Variance of Laplacian": 3831.788414726856,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\7_NIKON-D3400-35MM_F.JPG",
+        "Variance of Laplacian": 80.36616866583076,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\7_NIKON-D3400-35MM_M.JPG",
+        "Variance of Laplacian": 84.56620333795796,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\7_NIKON-D3400-35MM_S.JPG",
+        "Variance of Laplacian": 1810.0843309545548,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\8_SAMSUNG-GALAXY-A6_F.jpg",
+        "Variance of Laplacian": 105.87994394842468,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\8_SAMSUNG-GALAXY-A6_M.jpg",
+        "Variance of Laplacian": 81.19670819483252,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\8_SAMSUNG-GALAXY-A6_S.jpg",
+        "Variance of Laplacian": 307.9218580267109,
+        "Result": "Sharp"
+    },
+    {
+        "Image": "data\\9_HUAWEI-P20_F.jpg",
+        "Variance of Laplacian": 22.54161548557654,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\9_HUAWEI-P20_M.jpg",
+        "Variance of Laplacian": 27.885954518699027,
+        "Result": "Blurry"
+    },
+    {
+        "Image": "data\\9_HUAWEI-P20_S.jpg",
+        "Variance of Laplacian": 225.55598543742823,
+        "Result": "Sharp"
+    }
+]
