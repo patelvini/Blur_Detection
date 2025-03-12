@@ -1,0 +1,4 @@
+sklearn
+Pillow>=6.2.2
+opencv-python
+imutils
